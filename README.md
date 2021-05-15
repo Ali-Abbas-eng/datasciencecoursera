@@ -1,2 +1,2 @@
 # datasciencecoursera
-The Data Science's toolbox (Data Science Specialization | Coursera).
+The Data Scientist's toolbox (Data Science Specialization | Coursera).
